@@ -1,0 +1,29 @@
+{
+    "name": "iPadDetector",
+    "description": "Simple plugin that allows Matomo to detect iPad devices as iPads instead of macOS Desktop devices",
+    "version": "4.0.0",
+    "theme": false,
+    "require": {
+        "matomo": ">=4.0.0-b1,<5.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Starker3",
+            "email": "",
+            "homepage": "https://github.com/Starker3/MatomoiPadDetector"
+        }
+    ],
+    "support": {
+        "email": "",
+        "issues": "",
+        "forum": "",
+        "irc": "",
+        "wiki": "",
+        "source": "",
+        "docs": "",
+        "rss": ""
+    },
+    "homepage": "",
+    "license": "GPL v3+",
+    "keywords": []
+}
